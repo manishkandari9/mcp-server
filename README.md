@@ -17,22 +17,8 @@ A powerful backend service built in Go that provides real-time access, browsing,
 
 ## 🛠️ Project Structure
 
-mcp-server/
-├── cmd/ # Main application entry (main.go)
-│ └── main.go
-├── internal/ # Internal application logic
-│ ├── api/ # HTTP handlers
-│ │ └── filetree.go
-│ ├── middleware/ # Middleware components
-│ └── config/ # Config & constants (future)
-├── pkg/ # Reusable utilities
-│ └── utils/ # File tree logic
-├── go.mod # Go module definition
-└── README.md # You're here!
+<pre lang="markdown"> ## 🛠️ Project Structure ``` mcp-server/ ├── cmd/ # Main application entry (main.go) │ └── main.go ├── internal/ # Internal application logic │ ├── api/ # HTTP handlers │ │ └── filetree.go │ ├── middleware/ # Middleware components │ └── config/ # Config & constants (future) ├── pkg/ # Reusable utilities │ └── utils/ # File tree logic ├── go.mod # Go module definition └── README.md # You're here! ``` </pre>
 
-yaml
-Copy
-Edit
 
 ---
 
