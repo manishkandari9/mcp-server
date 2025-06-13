@@ -86,14 +86,14 @@ go run main.g
 ```
 Server will start at: http://localhost:8080
 ```
-🧱 Tech Stack
+## 🧱 Tech Stack
 Language: Go (v1.20+)
 
 Router: Gorilla Mux
 
 CORS: github.com/rs/cors
 
-### 🔮 Roadmap (v2 Preview)
+## 🔮 Roadmap (v2 Preview)
 🔐 GitHub OAuth Integration
 
 📂 Browse Repositories & Files via GitHub API
@@ -102,7 +102,7 @@ CORS: github.com/rs/cors
 
 🤖 AI/Agent-ready endpoints for Copilot-style assistants
 
-🤝 Contributing
+## 🤝 Contributing
 Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
 
